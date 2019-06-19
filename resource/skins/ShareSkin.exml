@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ShareSkin" width="750" height="1206" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group x="94" y="29.5">
+		<e:Image source="share_guide_png" x="0" y="0"/>
+		<e:Label text="点击右上角选择分享到群或朋友圈" x="31" y="234.5" textColor="0xfefb6b" verticalAlign="middle" textAlign="center" anchorOffsetX="0" width="486" anchorOffsetY="0" height="62"/>
+		<e:Label text="让好友来挑战吧" x="59" y="294.5" textColor="0xcf6c4c" size="50" anchorOffsetX="0" width="428" anchorOffsetY="0" height="60" verticalAlign="middle" textAlign="center"/>
+		<e:Rect id="knowBtn" width="266" height="87" x="132.5" y="413" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0"/>
+	</e:Group>
+</e:Skin>

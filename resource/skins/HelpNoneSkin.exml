@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HelpNoneSkin" width="750" height="1206" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group x="69.19" y="180.31">
+		<e:Rect width="610" height="524" x="0" y="215.47" anchorOffsetX="0" anchorOffsetY="0" fillColor="0xffffff" ellipseWidth="40" ellipseHeight="40"/>
+		<e:Group x="31.31" y="0">
+			<e:Image source="logo_png" x="0" y="0"/>
+			<e:Label id="tip" text="ta的成绩击败了全国58%的人" x="62.9" y="259.48" anchorOffsetX="0" width="425.39" anchorOffsetY="0" height="42.13" verticalAlign="middle" textAlign="center"/>
+		</e:Group>
+		<e:Group x="65.31" y="378.22">
+			<e:Rect id="taHeader" width="90" height="90" x="16" y="0"/>
+			<e:Label id="taName" text="jsz" x="0" y="97.81" textColor="0x666666" size="24" anchorOffsetX="0" width="122.43" anchorOffsetY="0" height="33.09" verticalAlign="middle" textAlign="center"/>
+		</e:Group>
+		<e:Group x="267.04" y="362.62">
+			<e:Label text="初始成绩：" x="0" y="15.76" textColor="0x666666" size="24" anchorOffsetX="0" width="132" anchorOffsetY="0" height="33.09" verticalAlign="middle" textAlign="left"/>
+			<e:Label id="startScore" text="500米" x="119.06" y="0" textColor="0x666666" size="24" anchorOffsetX="0" width="147.15" anchorOffsetY="0" height="43.7" verticalAlign="bottom" textAlign="right"/>
+			<e:Label id="helpScore" text="500米" x="119.06" y="46.11" textColor="0x666666" size="24" anchorOffsetX="0" width="147.15" anchorOffsetY="0" height="43.7" verticalAlign="bottom" textAlign="right"/>
+			<e:Label id="lastScore" text="500米" x="119.06" y="92.34" textColor="0x666666" size="24" anchorOffsetX="0" width="147.15" anchorOffsetY="0" height="43.7" verticalAlign="bottom" textAlign="right"/>
+			<e:Label text="最佳助力：" x="0" y="60.72" textColor="0x666666" size="24" anchorOffsetX="0" width="132" anchorOffsetY="0" height="33.09" verticalAlign="middle" textAlign="left"/>
+			<e:Label text="最终成绩：" x="0" y="105.99" textColor="0x666666" size="24" anchorOffsetX="0" width="132" anchorOffsetY="0" height="33.09" verticalAlign="middle" textAlign="left"/>
+		</e:Group>
+		<e:Rect width="2" height="124" x="221.31" y="379.44" fillColor="0xe8e8e8"/>
+		<e:Image id="goBtn" source="chuangguan_png" x="215.22" y="647.14"/>
+		<e:Image id="helpBtn" source="jieli_png" x="109" y="541.1"/>
+	</e:Group>
+</e:Skin>

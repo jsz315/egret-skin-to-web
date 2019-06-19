@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RecordSkin" width="750" height="254" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="new-record_png" x="264" y="6"/>
+	<e:Rect width="360" height="122" x="190" y="125" anchorOffsetX="0" anchorOffsetY="0"/>
+	<e:Image source="0001_png" x="192" y="126.61"/>
+	<e:Image source="0002_png" x="480" y="124"/>
+</e:Skin>

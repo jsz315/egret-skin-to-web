@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PkNoneSkin" width="750" height="1206" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group x="69.98" y="213.88">
+		<e:Rect width="610" height="524" x="0" y="207.88" anchorOffsetX="0" anchorOffsetY="0" fillColor="0xFFFFFF" ellipseWidth="40" ellipseHeight="40"/>
+		<e:Image id="pkBtn" source="pkhaoyou_png" x="109.5" y="525.84"/>
+		<e:Group x="31" y="0">
+			<e:Image source="logo_png" x="0" y="0"/>
+			<e:Label id="tip" text="ta的成绩击败了全国58%的人" x="62.9" y="257.98" anchorOffsetX="0" width="425.39" anchorOffsetY="0" height="42.13" verticalAlign="middle" textAlign="center"/>
+		</e:Group>
+		<e:Rect id="taHeader" width="90" height="90" x="142.17" y="379.48"/>
+		<e:Label id="taName" text="jsz" x="252.02" y="367.98" textColor="0x666666" size="24" anchorOffsetX="0" width="181.52" anchorOffsetY="0" height="36.12" verticalAlign="middle" textAlign="left"/>
+		<e:Label id="taScore" text="Label" x="252.02" y="419.44" textColor="0x586776" size="60" verticalAlign="middle" textAlign="left" anchorOffsetX="0" width="273.03"/>
+		<e:Image id="selfBtn" source="chuangguan_png" x="217.02" y="638.84"/>
+	</e:Group>
+</e:Skin>

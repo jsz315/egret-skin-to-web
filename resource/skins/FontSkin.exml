@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="FontSkin" width="920" height="92" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="a-num_png" x="0" y="0"/>
+	<e:Rect id="num0" width="54.97" height="90" x="848.67" y="0" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0.5" fillColor="0x2eef28"/>
+	<e:Rect id="num1" width="43.76" height="90" x="22.24" y="0" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0.5" fillColor="0x2EEF28"/>
+	<e:Rect id="num2" width="56.97" height="90" x="110.37" y="0" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0.5" fillColor="0x2EEF28"/>
+	<e:Rect id="num3" width="53.46" height="90" x="202.06" y="0" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0.5" fillColor="0x2EEF28" enabled="true"/>
+	<e:Rect id="num4" width="56.49" height="90" x="294.56" y="0" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0.5" fillColor="0x2EEF28"/>
+	<e:Rect id="num5" width="57.09" height="90" x="384.88" y="0" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0.5" fillColor="0x2EEF28"/>
+	<e:Rect id="num6" width="56.37" height="90" x="478.53" y="0" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0.5" fillColor="0x2EEF28"/>
+	<e:Rect id="num7" width="56" height="90" x="570.47" y="0" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0.5" fillColor="0x2EEF28"/>
+	<e:Rect id="num8" width="58.67" height="90" x="660.94" y="0" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0.5" fillColor="0x2EEF28"/>
+	<e:Rect id="num9" width="56.66" height="90" x="752.66" y="0" anchorOffsetX="0" anchorOffsetY="0" fillAlpha="0.5" fillColor="0x2EEF28"/>
+</e:Skin>

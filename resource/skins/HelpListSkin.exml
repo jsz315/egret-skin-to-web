@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HelpListSkin" width="750" height="1206" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Group x="97.98" y="-27.51">
+		<e:Rect width="550" height="280" x="0" y="207.88" anchorOffsetX="0" anchorOffsetY="0" fillColor="0xffffff" ellipseWidth="40" ellipseHeight="40"/>
+			<e:Group x="1" y="-7.59">
+				<e:Image source="logo_png" x="0" y="0"/>
+				<e:Label id="tip" text="ta的成绩击败了全国58%的人" x="62.9" y="259.48" anchorOffsetX="0" width="425.39" anchorOffsetY="0" height="42.13" verticalAlign="middle" textAlign="center"/>
+			</e:Group>
+			<e:Group x="35" y="338.78">
+				<e:Rect id="taHeader" width="90" height="90" x="16" y="0"/>
+				<e:Label id="taName" text="jsz" x="0" y="97.81" textColor="0x666666" size="24" anchorOffsetX="0" width="122.43" anchorOffsetY="0" height="33.09" verticalAlign="middle" textAlign="center"/>
+			</e:Group>
+			<e:Group x="236.73" y="323.18">
+				<e:Label text="初始成绩：" x="0" y="15.76" textColor="0x666666" size="24" anchorOffsetX="0" width="132" anchorOffsetY="0" height="33.09" verticalAlign="middle" textAlign="left"/>
+				<e:Label id="startScore" text="500米" x="119.06" y="0" textColor="0x666666" size="24" anchorOffsetX="0" width="147.15" anchorOffsetY="0" height="43.7" verticalAlign="bottom" textAlign="right"/>
+				<e:Label id="helpScore" text="500米" x="119.06" y="46.11" textColor="0x666666" size="24" anchorOffsetX="0" width="147.15" anchorOffsetY="0" height="43.7" verticalAlign="bottom" textAlign="right"/>
+				<e:Label id="lastScore" text="500米" x="119.06" y="92.34" textColor="0x666666" size="24" anchorOffsetX="0" width="147.15" anchorOffsetY="0" height="43.7" verticalAlign="bottom" textAlign="right"/>
+				<e:Label text="最佳助力：" x="0" y="60.72" textColor="0x666666" size="24" anchorOffsetX="0" width="132" anchorOffsetY="0" height="33.09" verticalAlign="middle" textAlign="left"/>
+				<e:Label text="最终成绩：" x="0" y="105.99" textColor="0x666666" size="24" anchorOffsetX="0" width="132" anchorOffsetY="0" height="33.09" verticalAlign="middle" textAlign="left"/>
+			</e:Group>
+			<e:Rect width="2" height="124" x="191" y="340" fillColor="0xe8e8e8"/>
+	</e:Group>
+	<e:Group x="44.96" y="481.26">
+		<e:Rect width="660" height="512" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="8" ellipseHeight="8" fillColor="0x494b51"/>
+		<e:Rect id="friendList" width="660" height="440" x="0" y="70.31" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="8" ellipseHeight="8" fillColor="0x282828"/>
+		<e:Label text="好友排名" x="8.41" y="17" anchorOffsetX="0" width="147.27" anchorOffsetY="0" height="42.12" verticalAlign="middle" textAlign="center" size="24"/>
+		<e:Label text="助力成绩" x="508.44" y="17" anchorOffsetX="0" width="138.18" anchorOffsetY="0" height="42.12" verticalAlign="middle" textAlign="center" size="24"/>
+	</e:Group>
+	<e:Label id="selfBtn" text="不接力，自己闯关" x="236.03" y="1139.48" anchorOffsetX="0" width="283.94" anchorOffsetY="0" height="40.61" verticalAlign="middle" textAlign="center"/>
+	<e:Image id="pkBtn" source="pkhaoyou_png" x="176.98" y="1025.89"/>
+</e:Skin>

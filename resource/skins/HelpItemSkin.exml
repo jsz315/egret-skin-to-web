@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HelpItemSkin" width="660" height="118" xmlns:e="http://ns.egret.com/eui">
+    <e:Image id="rankNum" source="coin1_png" x="29" y="35" anchorOffsetX="0" width="56"/>
+	<e:Rect id="header" width="70" height="70" x="106" y="23.5"/>
+	<e:Label id="score" text="5323米" x="477" y="43" verticalAlign="middle" textAlign="right" anchorOffsetX="0" width="151"/>
+	<e:Label id="name" text="jsz" x="203" y="46" verticalAlign="middle" textAlign="left" anchorOffsetX="0" width="158" size="24"/>
+</e:Skin>

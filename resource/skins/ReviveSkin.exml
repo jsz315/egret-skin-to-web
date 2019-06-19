@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ReviveSkin" width="620" height="500" xmlns:e="http://ns.egret.com/eui">
+	<e:Rect width="620" height="500" x="0" y="0" ellipseWidth="8" ellipseHeight="8" fillColor="0x494b51"/>
+	<e:Image source="fuhuo_png" x="29" y="374"/>
+	<e:Image source="yaoqingqunfa_png" x="293" y="374"/>
+	<e:Group x="102" y="143">
+		<e:Image source="fuhuobi_png" x="168" y="0"/>
+		<e:Label text="目前拥有：" x="0" y="8" anchorOffsetX="0" width="185" anchorOffsetY="0" height="37" verticalAlign="middle" textAlign="left"/>
+		<e:Label text="2（上限5个）" x="238.5" y="8" anchorOffsetX="0" width="207" anchorOffsetY="0" height="37" verticalAlign="middle" textAlign="left"/>
+	</e:Group>
+	<e:Group x="105" y="220">
+		<e:Label text="说明：" x="0" y="0" size="24" textColor="0xc6c6c6" anchorOffsetX="0" width="102" anchorOffsetY="0" height="31" textAlign="left" verticalAlign="top"/>
+		<e:Label text="每天首次登陆立刻赠送1个。 邀请群友点入你的分享链接 可恢复1个" x="96" y="0" size="24" anchorOffsetX="0" width="310" anchorOffsetY="0" height="110" textColor="0xc6c6c6" verticalAlign="top" textAlign="left"/>
+	</e:Group>
+	<e:Rect width="620" height="90" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" fillColor="0xffffff"/>
+	<e:Label text="复活币" x="204" y="16" size="48" textColor="0x333333" anchorOffsetX="0" width="208" anchorOffsetY="0" height="60" verticalAlign="middle" textAlign="center"/>
+</e:Skin>

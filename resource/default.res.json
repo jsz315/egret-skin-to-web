@@ -1,0 +1,425 @@
+{
+	"groups": [
+		{
+			"keys": "share_guide_png,self-pk_png,num_png,none-thing_png,huode_png,good_png,bufu_png,chenggong_png,chuangguan_png,coin1_png,coin2_png,coin3_png,fangta_png,fenxiang_png,fuhuo_png,fuhuobi_png,header_png,hongbao_png,jieli_png,jige-k_png,jige_png,jinbi_png,kulian_png,leader_png,line_png,lingqu_png,logo_png,pkhaoyou_png,qipao_png,shibai_png,shiyong_png,shubox_png,tiaozhan_png,title_png,wanmei-k_png,wanmei_png,xiaolian_png,xiazai_png,xuanyao_png,yaoqingjieli_png,yaoqingqunfa_png,yaoqingtiaozhan_png,yiban-k_png,yiban_png,yingbox_png,youxiu-k_png,youxiu_png,shubox2_png,yingbox2_png,chengji_png,xinjilu_png,again_png,defen_png,nofuhuo_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/h5/num.png",
+			"type": "image",
+			"name": "num_png"
+		},
+		{
+			"url": "assets/h5/share_guide.png",
+			"type": "image",
+			"name": "share_guide_png"
+		},
+		{
+			"url": "assets/h5/self-pk.png",
+			"type": "image",
+			"name": "self-pk_png"
+		},
+		{
+			"url": "assets/h5/good.png",
+			"type": "image",
+			"name": "good_png"
+		},
+		{
+			"url": "assets/h5/huode.png",
+			"type": "image",
+			"name": "huode_png"
+		},
+		{
+			"url": "assets/h5/none-thing.png",
+			"type": "image",
+			"name": "none-thing_png"
+		},
+		{
+			"url": "assets/h5/bufu.png",
+			"type": "image",
+			"name": "bufu_png"
+		},
+		{
+			"url": "assets/h5/chenggong.png",
+			"type": "image",
+			"name": "chenggong_png"
+		},
+		{
+			"url": "assets/h5/chuangguan.png",
+			"type": "image",
+			"name": "chuangguan_png"
+		},
+		{
+			"url": "assets/h5/coin1.png",
+			"type": "image",
+			"name": "coin1_png"
+		},
+		{
+			"url": "assets/h5/coin2.png",
+			"type": "image",
+			"name": "coin2_png"
+		},
+		{
+			"url": "assets/h5/coin3.png",
+			"type": "image",
+			"name": "coin3_png"
+		},
+		{
+			"url": "assets/h5/fangta.png",
+			"type": "image",
+			"name": "fangta_png"
+		},
+		{
+			"url": "assets/h5/fenxiang.png",
+			"type": "image",
+			"name": "fenxiang_png"
+		},
+		{
+			"url": "assets/h5/fuhuo.png",
+			"type": "image",
+			"name": "fuhuo_png"
+		},
+		{
+			"url": "assets/h5/fuhuobi.png",
+			"type": "image",
+			"name": "fuhuobi_png"
+		},
+		{
+			"url": "assets/h5/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/h5/hongbao.png",
+			"type": "image",
+			"name": "hongbao_png"
+		},
+		{
+			"url": "assets/h5/jieli.png",
+			"type": "image",
+			"name": "jieli_png"
+		},
+		{
+			"url": "assets/h5/jige-k.png",
+			"type": "image",
+			"name": "jige-k_png"
+		},
+		{
+			"url": "assets/h5/jige.png",
+			"type": "image",
+			"name": "jige_png"
+		},
+		{
+			"url": "assets/h5/jinbi.png",
+			"type": "image",
+			"name": "jinbi_png"
+		},
+		{
+			"url": "assets/h5/kulian.png",
+			"type": "image",
+			"name": "kulian_png"
+		},
+		{
+			"url": "assets/h5/leader.png",
+			"type": "image",
+			"name": "leader_png"
+		},
+		{
+			"url": "assets/h5/line.png",
+			"type": "image",
+			"name": "line_png"
+		},
+		{
+			"url": "assets/h5/lingqu.png",
+			"type": "image",
+			"name": "lingqu_png"
+		},
+		{
+			"url": "assets/h5/logo.png",
+			"type": "image",
+			"name": "logo_png"
+		},
+		{
+			"url": "assets/h5/pkhaoyou.png",
+			"type": "image",
+			"name": "pkhaoyou_png"
+		},
+		{
+			"url": "assets/h5/qipao.png",
+			"type": "image",
+			"name": "qipao_png"
+		},
+		{
+			"url": "assets/h5/shibai.png",
+			"type": "image",
+			"name": "shibai_png"
+		},
+		{
+			"url": "assets/h5/shiyong.png",
+			"type": "image",
+			"name": "shiyong_png"
+		},
+		{
+			"url": "assets/h5/shubox.png",
+			"type": "image",
+			"name": "shubox_png"
+		},
+		{
+			"url": "assets/h5/tiaozhan.png",
+			"type": "image",
+			"name": "tiaozhan_png"
+		},
+		{
+			"url": "assets/h5/title.png",
+			"type": "image",
+			"name": "title_png"
+		},
+		{
+			"url": "assets/h5/wanmei-k.png",
+			"type": "image",
+			"name": "wanmei-k_png"
+		},
+		{
+			"url": "assets/h5/wanmei.png",
+			"type": "image",
+			"name": "wanmei_png"
+		},
+		{
+			"url": "assets/h5/xiaolian.png",
+			"type": "image",
+			"name": "xiaolian_png"
+		},
+		{
+			"url": "assets/h5/xiazai.png",
+			"type": "image",
+			"name": "xiazai_png"
+		},
+		{
+			"url": "assets/h5/xuanyao.png",
+			"type": "image",
+			"name": "xuanyao_png"
+		},
+		{
+			"url": "assets/h5/yaoqingjieli.png",
+			"type": "image",
+			"name": "yaoqingjieli_png"
+		},
+		{
+			"url": "assets/h5/yaoqingqunfa.png",
+			"type": "image",
+			"name": "yaoqingqunfa_png"
+		},
+		{
+			"url": "assets/h5/yaoqingtiaozhan.png",
+			"type": "image",
+			"name": "yaoqingtiaozhan_png"
+		},
+		{
+			"url": "assets/h5/yiban-k.png",
+			"type": "image",
+			"name": "yiban-k_png"
+		},
+		{
+			"url": "assets/h5/yiban.png",
+			"type": "image",
+			"name": "yiban_png"
+		},
+		{
+			"url": "assets/h5/yingbox.png",
+			"type": "image",
+			"name": "yingbox_png"
+		},
+		{
+			"url": "assets/h5/youxiu-k.png",
+			"type": "image",
+			"name": "youxiu-k_png"
+		},
+		{
+			"url": "assets/h5/youxiu.png",
+			"type": "image",
+			"name": "youxiu_png"
+		},
+		{
+			"url": "assets/h5/shubox2.png",
+			"type": "image",
+			"name": "shubox2_png"
+		},
+		{
+			"url": "assets/h5/yingbox2.png",
+			"type": "image",
+			"name": "yingbox2_png"
+		},
+		{
+			"url": "assets/h5/chengji.png",
+			"type": "image",
+			"name": "chengji_png"
+		},
+		{
+			"url": "assets/h5/xinjilu.png",
+			"type": "image",
+			"name": "xinjilu_png"
+		},
+		{
+			"url": "assets/h5/again.png",
+			"type": "image",
+			"name": "again_png"
+		},
+		{
+			"url": "assets/h5/defen.png",
+			"type": "image",
+			"name": "defen_png"
+		},
+		{
+			"url": "assets/h5/nofuhuo.png",
+			"type": "image",
+			"name": "nofuhuo_png"
+		},
+		{
+			"url": "assets/h5/a-num.png",
+			"type": "image",
+			"name": "a-num_png"
+		},
+		{
+			"url": "assets/h5/new-record.png",
+			"type": "image",
+			"name": "new-record_png"
+		},
+		{
+			"url": "assets/h5/shine/0001.png",
+			"type": "image",
+			"name": "0001_png"
+		},
+		{
+			"url": "assets/h5/shine/0002.png",
+			"type": "image",
+			"name": "0002_png"
+		},
+		{
+			"url": "assets/h5/shine/0003.png",
+			"type": "image",
+			"name": "0003_png"
+		},
+		{
+			"url": "assets/h5/shine/0004.png",
+			"type": "image",
+			"name": "0004_png"
+		},
+		{
+			"url": "assets/h5/shine/0005.png",
+			"type": "image",
+			"name": "0005_png"
+		},
+		{
+			"url": "assets/h5/shine/0006.png",
+			"type": "image",
+			"name": "0006_png"
+		},
+		{
+			"url": "assets/h5/shine/0007.png",
+			"type": "image",
+			"name": "0007_png"
+		},
+		{
+			"url": "assets/h5/shine/0008.png",
+			"type": "image",
+			"name": "0008_png"
+		},
+		{
+			"url": "assets/h5/shine/0009.png",
+			"type": "image",
+			"name": "0009_png"
+		},
+		{
+			"url": "assets/h5/shine/0010.png",
+			"type": "image",
+			"name": "0010_png"
+		},
+		{
+			"url": "assets/h5/shine/0011.png",
+			"type": "image",
+			"name": "0011_png"
+		},
+		{
+			"url": "assets/h5/shine/0012.png",
+			"type": "image",
+			"name": "0012_png"
+		},
+		{
+			"url": "assets/h5/shine/0013.png",
+			"type": "image",
+			"name": "0013_png"
+		},
+		{
+			"url": "assets/h5/shine/0014.png",
+			"type": "image",
+			"name": "0014_png"
+		},
+		{
+			"url": "assets/h5/shine/0015.png",
+			"type": "image",
+			"name": "0015_png"
+		},
+		{
+			"url": "assets/h5/shine/0016.png",
+			"type": "image",
+			"name": "0016_png"
+		},
+		{
+			"url": "assets/h5/shine/0017.png",
+			"type": "image",
+			"name": "0017_png"
+		},
+		{
+			"url": "assets/h5/shine/0018.png",
+			"type": "image",
+			"name": "0018_png"
+		},
+		{
+			"url": "assets/h5/shine/0019.png",
+			"type": "image",
+			"name": "0019_png"
+		},
+		{
+			"url": "assets/h5/shine/0020.png",
+			"type": "image",
+			"name": "0020_png"
+		},
+		{
+			"url": "assets/h5/shine/0021.png",
+			"type": "image",
+			"name": "0021_png"
+		},
+		{
+			"url": "assets/h5/shine/0022.png",
+			"type": "image",
+			"name": "0022_png"
+		},
+		{
+			"url": "assets/h5/shine/0023.png",
+			"type": "image",
+			"name": "0023_png"
+		},
+		{
+			"url": "assets/h5/shine/0024.png",
+			"type": "image",
+			"name": "0024_png"
+		},
+		{
+			"url": "assets/h5/shine/0025.png",
+			"type": "image",
+			"name": "0025_png"
+		},
+		{
+			"url": "assets/h5/shine/0026.png",
+			"type": "image",
+			"name": "0026_png"
+		}
+	]
+}

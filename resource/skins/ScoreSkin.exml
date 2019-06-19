@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ScoreSkin" width="750" height="1206" xmlns:e="http://ns.egret.com/eui">
+	<e:Label text="返回首页" x="36.61" y="25.96" anchorOffsetX="0" width="166.97" anchorOffsetY="0" height="39.1" verticalAlign="middle" textAlign="left" size="24"/>
+	<e:Group x="60" y="114.97">
+		<e:Rect width="630" height="450" x="0" y="197.3" ellipseWidth="16" ellipseHeight="16" fillColor="0xffffff"/>
+		<e:Group x="164.29" y="281.13">
+			<e:Rect id="taHeader" width="90" height="90" x="0" y="11.5"/>
+			<e:Label id="taName" text="jsz" x="109.85" y="0" textColor="0x666666" size="24" anchorOffsetX="0" width="181.52" anchorOffsetY="0" height="36.12" verticalAlign="middle" textAlign="left"/>
+			<e:Label id="taScore" text="Label" x="109.85" y="51.46" textColor="0x586776" size="60" verticalAlign="middle" textAlign="left" anchorOffsetX="0" width="273.03"/>
+			<e:Image source="xinjilu_png" x="200.61" y="-17.94"/>
+		</e:Group>
+		<e:Group x="40.5" y="0">
+			<e:Image source="header_png" x="0" y="0"/>
+			<e:Label text="本次得分已超越了90%的玩家" x="55.76" y="178.74" size="28" anchorOffsetX="0" width="442.27" anchorOffsetY="0" height="46.18" verticalAlign="middle" textAlign="center"/>
+		</e:Group>
+		<e:Group x="75.09" y="471.03">
+			<e:Label id="taScore0" text="1245" x="0" y="0" textColor="0x586776" size="54" textAlign="center" anchorOffsetX="0" width="200"/>
+			<e:Label id="taScore1" text="今日全球排名" x="0" y="69" size="24" textAlign="center" anchorOffsetX="0" width="200" textColor="0x717171" anchorOffsetY="0" height="39.16" verticalAlign="middle"/>
+			<e:Label id="taScore2" text="1245" x="273.91" y="0" textColor="0x586776" size="54" textAlign="center" anchorOffsetX="0" width="200"/>
+			<e:Label id="taScore3" text="历史最佳成绩" x="273.91" y="69" textColor="0x717171" size="24" textAlign="center" anchorOffsetX="0" width="200" anchorOffsetY="0" height="39.16" verticalAlign="middle"/>
+			<e:Rect width="2" height="84" x="239.91" y="9" fillColor="0xe8e8e8"/>
+		</e:Group>
+	</e:Group>
+	<e:Image source="yaoqingjieli_png" x="45.54" y="867.85"/>
+	<e:Image source="yaoqingtiaozhan_png" x="396.25" y="867.85"/>
+	<e:Group x="224.29" y="784.94">
+		<e:Image source="qipao_png" x="0" y="0"/>
+		<e:Label text="打败了90%的人，快邀请好友来挑战吧！" x="13.84" y="3.04" textColor="0x3b1918" size="24" anchorOffsetX="0" width="455.73" anchorOffsetY="0" height="45.21" verticalAlign="middle" textAlign="center"/>
+	</e:Group>
+	<e:Image source="again_png" x="280.57" y="1008.51"/>
+</e:Skin>

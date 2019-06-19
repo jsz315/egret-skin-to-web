@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Reward" width="441" height="490" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="huode_png" x="0" y="0"/>
+	<e:Image id="goodBtn" source="good_png" x="77" y="382"/>
+	<e:Label text="获得排名奖金100金币" x="24" y="287" textColor="0x161616" size="28" anchorOffsetX="0" width="388" anchorOffsetY="0" height="42" verticalAlign="middle" rotation="0" textAlign="center"/>
+</e:Skin>

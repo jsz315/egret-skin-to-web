@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PkListSkin" width="750" height="1206" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group x="97.98" y="11.9">
+		<e:Rect width="550" height="362" x="0" y="207.88" anchorOffsetX="0" anchorOffsetY="0" fillColor="0xffffff" ellipseWidth="40" ellipseHeight="40"/>
+		<e:Image id="pkBtn" source="pkhaoyou_png" x="79.5" y="463.84"/>
+		<e:Group x="1" y="0">
+			<e:Image source="logo_png" x="0" y="0"/>
+			<e:Label id="tip" text="ta的成绩击败了全国58%的人" x="62.9" y="257.98" anchorOffsetX="0" width="425.39" anchorOffsetY="0" height="42.13" verticalAlign="middle" textAlign="center"/>
+		</e:Group>
+		<e:Rect id="taHeader" width="90" height="90" x="112.17" y="345.48"/>
+		<e:Label id="taName" text="jsz" x="222.02" y="333.98" textColor="0x666666" size="24" anchorOffsetX="0" width="181.52" anchorOffsetY="0" height="36.12" verticalAlign="middle" textAlign="left"/>
+		<e:Label id="taScore" text="Label" x="222.02" y="385.44" textColor="0x586776" size="60" verticalAlign="middle" textAlign="left" anchorOffsetX="0" width="273.03"/>
+	</e:Group>
+	<e:Group x="44.96" y="608.57">
+		<e:Rect width="660" height="512" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="8" ellipseHeight="8" fillColor="0x494b51"/>
+		<e:Rect id="friendList" width="660" height="428" x="0" y="82.39" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="8" ellipseHeight="8" fillColor="0x282828"/>
+		<e:Label text="好友排名" x="22.06" y="18.78" anchorOffsetX="0" width="159.39" anchorOffsetY="0" height="42.12" verticalAlign="middle" textAlign="center" size="24"/>
+		<e:Label text="挑战成绩" x="360.73" y="18.78" anchorOffsetX="0" width="133.63" anchorOffsetY="0" height="42.12" verticalAlign="middle" textAlign="center" size="24"/>
+		<e:Label text="世界排名" x="508.44" y="18.78" anchorOffsetX="0" width="138.18" anchorOffsetY="0" height="42.12" verticalAlign="middle" textAlign="center" size="24"/>
+	</e:Group>
+	<e:Label id="selfBtn" text="不挑战，自己闯关" x="236.03" y="1139.48" anchorOffsetX="0" width="283.94" anchorOffsetY="0" height="40.61" verticalAlign="middle" textAlign="center"/>
+</e:Skin>

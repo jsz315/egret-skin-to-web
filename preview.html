@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Egret</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="full-screen" content="true" />
+    <meta name="screen-orientation" content="portrait" />
+    <meta name="x5-fullscreen" content="true" />
+    <meta name="360-fullscreen" content="true" />
+    <script src="//yun.tuisnake.com/h5-mami/webgame/lib/zepto-1.1.4.min.js" type="text/javascript"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.2.0/less.min.js"></script>
+    <style>
+    html,body{
+        margin: 0;
+        padding: 0;
+        background: #ffffff;
+    }
+    </style>
+    <style id="less">
+    
+    </style>
+</head>
+
+<body>
+
+<div id="view"></div>
+    
+<script>
+
+window.addEventListener("message", function(e){
+    less.render(e.data.less, function (e, output) {
+        $("#less").html(output.css);
+    });
+    
+    $("#view").html(e.data.dom);
+    // var list = $("[text]");
+    // for(var i = 0; i < list.length; i++){
+    //     list[i].innerHTML = list.eq(i).attr("text");
+    // }
+}, false);
+
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="StartSkin" width="750" height="1206" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="title_png" x="82.5" y="50"/>
+	<e:Group x="42" y="411">
+		<e:Rect width="660" height="620" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" fillColor="0x282828" ellipseWidth="4" ellipseHeight="4"/>
+		<e:Rect id="worldList" width="660" height="540" x="0" y="78.5" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="4" ellipseHeight="4" fillColor="0xaaaaaa"/>
+		<e:Label text="世界排名" x="32" y="24" verticalAlign="middle" textAlign="center" height="32" width="118" anchorOffsetX="0" size="24"/>
+		<e:Label text="最佳成绩" x="507.5" y="24" verticalAlign="middle" textAlign="center" height="32" width="118" anchorOffsetX="0" size="24"/>
+	</e:Group>
+	<e:Group x="42" y="213">
+		<e:Rect width="660" height="178" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" fillColor="0x282828" ellipseWidth="4" ellipseHeight="4"/>
+		<e:Group x="16" y="20">
+			<e:Image source="line_png" x="0" y="0"/>
+			<e:Label id="sendTip" text="每日1点发放奖金  更新榜单" x="194" y="2" size="24" anchorOffsetX="0" width="321" anchorOffsetY="0" height="32" verticalAlign="middle" textAlign="left"/>
+		</e:Group>
+		<e:Group x="28" y="80">
+			<e:Rect width="70" height="70" x="0" y="1"/>
+			<e:Label id="myName" text="jsz" x="95" y="0" verticalAlign="middle" textAlign="left" height="32" anchorOffsetX="0" width="219" size="24"/>
+			<e:Label id="myRank" text="我的排名：2000名" x="95" y="42" verticalAlign="middle" textAlign="left" height="32" width="219" anchorOffsetX="0" size="24"/>
+			<e:Label id="myBest" text="最佳成绩：5323米" x="365.5" y="42" verticalAlign="middle" textAlign="right" height="32" width="243" anchorOffsetX="0" size="24"/>
+		</e:Group>
+	</e:Group>
+	<e:Image id="startBtn" source="tiaozhan_png" x="175" y="1054"/>
+</e:Skin>

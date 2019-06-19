@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ResultSkin" width="750" height="1206" xmlns:e="http://ns.egret.com/eui">
+	<e:Label text="本次得分" x="234.57" y="106.03" size="24" anchorOffsetX="0" width="280.85" anchorOffsetY="0" height="37.64" verticalAlign="middle" textAlign="center"/>
+	<e:Label text="点击跳过" x="277" y="1079.63" size="32" anchorOffsetX="0" width="196" anchorOffsetY="0" height="39.16" verticalAlign="middle" textAlign="center"/>
+	<e:Label text="215米" x="152.39" y="172.94" anchorOffsetX="0" width="445.22" anchorOffsetY="0" height="166.36" size="180" verticalAlign="middle" textAlign="center"/>
+	<e:Label text="距离战胜好友      还差：100米" x="88.14" y="380.09" anchorOffsetX="0" width="573.72" anchorOffsetY="0" height="83.03" verticalAlign="middle" textAlign="center"/>
+	<e:Image source="shiyong_png" x="133" y="937.98"/>
+</e:Skin>

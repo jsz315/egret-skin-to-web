@@ -1,0 +1,27 @@
+{
+	"skins": {},
+	"autoGenerateExmlsList": true,
+	"exmls": [
+		"resource/skins/FontSkin.exml",
+		"resource/skins/FriendItemSkin.exml",
+		"resource/skins/GainSkin.exml",
+		"resource/skins/HelpItemSkin.exml",
+		"resource/skins/HelpListSkin.exml",
+		"resource/skins/HelpNoneSkin.exml",
+		"resource/skins/InfoSkin.exml",
+		"resource/skins/LoadingSkin.exml",
+		"resource/skins/LostSkin.exml",
+		"resource/skins/PkListSkin.exml",
+		"resource/skins/PkNoneSkin.exml",
+		"resource/skins/RecordSkin.exml",
+		"resource/skins/ResultSkin.exml",
+		"resource/skins/ReviveSkin.exml",
+		"resource/skins/RewardSkin.exml",
+		"resource/skins/ScoreSkin.exml",
+		"resource/skins/ShareSkin.exml",
+		"resource/skins/StartSkin.exml",
+		"resource/skins/SuccessSkin.exml",
+		"resource/skins/WorldItemSkin.exml"
+	],
+	"path": "resource/default.thm.json"
+}

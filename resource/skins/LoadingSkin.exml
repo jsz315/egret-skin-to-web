@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LoadingSkin" width="750" height="1206" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="title_png" x="82.5" y="198"/>
+	<e:Label text="小贴士：每日排行榜都会送出高额金币哦 " x="46.5" y="1068" anchorOffsetX="0" width="657" anchorOffsetY="0" height="54" verticalAlign="middle" textAlign="center" size="32"/>
+	<e:Group x="177" y="384">
+		<e:Rect width="420" height="24" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" fillColor="0xffffff" ellipseWidth="32" ellipseHeight="32"/>
+		<e:Rect id="progress" width="412" height="18" x="4" y="3" anchorOffsetX="0" anchorOffsetY="0" ellipseWidth="16" ellipseHeight="16" fillColor="0x165384"/>
+	</e:Group>
+	<e:Label text="加载中..." x="241.5" y="430" size="24" anchorOffsetX="0" width="283" anchorOffsetY="0" height="38" verticalAlign="middle" textAlign="center"/>
+</e:Skin>
